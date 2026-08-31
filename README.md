@@ -14,4 +14,4 @@ and regional performance trends.
 Python, pandas, Google Colab
 ## Screenshot
 
-![Financial Performance Analysis output](pictures/python_screenshot.png)
+![Financial Performance Analysis output](images/python_screenshot.png)
